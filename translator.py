@@ -1,6 +1,6 @@
 # code by nerd ops
 
-from translate import Translator # 
+from translate import Translator # lib to help
 
 from_lang = input("ur language  (example : en) : ")
 to_lang = input("the language you want to pass it to (example : es): ")
